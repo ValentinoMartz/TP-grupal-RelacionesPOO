@@ -8,5 +8,7 @@ namespace LibFactura
 {
     public class Categoria
     {
+        public string  Nombre { get; set; }
+        public List<Producto> Productos { get; set; }
     }
 }
