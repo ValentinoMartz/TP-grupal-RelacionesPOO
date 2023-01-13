@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\LibFactura",
+    "\\LibFactura\\LibFactura"
   ],
+  "SelectedNode": "\\LibFactura\\LibFactura\\Empleado.cs",
   "PreviewInSolutionExplorer": false
 }
