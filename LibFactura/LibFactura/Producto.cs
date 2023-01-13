@@ -19,4 +19,6 @@ namespace LibFactura
         public Categoria Categoria { get; set; }
         public List<DetalleFactura> DetalleFacturas { get; set; }
     }
+
+    
 }
