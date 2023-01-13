@@ -17,5 +17,6 @@ namespace LibFactura
         public string Nombre { get; set; }
         public decimal Precio { get; set;}
         public Categoria Categoria { get; set; }
+        public List<DetalleFactura> DetalleFacturas { get; set; }
     }
 }

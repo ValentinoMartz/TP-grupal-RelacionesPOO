@@ -14,5 +14,6 @@ namespace LibFactura
 
         }
         public int Legajo { get; set; }
+        public List<Factura> Facturas { get; set; }
     }
 }

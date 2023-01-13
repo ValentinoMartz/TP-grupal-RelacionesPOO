@@ -14,5 +14,7 @@ namespace LibFactura
 
         }
         public int NroCliente { get; set; }
+        public Usuario Usuario { get; set; }
+        public List<Factura> Facturas { get; set; }
     }
 }
